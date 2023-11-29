@@ -1,2 +1,2 @@
 # webdemoshop
-https://demowebshop.tricentis.com/
+url : https://demowebshop.tricentis.com/
