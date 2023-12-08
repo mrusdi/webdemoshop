@@ -37,7 +37,7 @@ describe('Register', () => {
     
   });
 
-  it.only('melakukan  register sebagai female tanpa last name', () => {
+  it('melakukan  register sebagai female tanpa last name', () => {
     
     cy.visit('https://demowebshop.tricentis.com/');
     cy.get('.ico-register').click();
